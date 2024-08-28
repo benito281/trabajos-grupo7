@@ -1,2 +1,2 @@
-# trabajos-grupo7
-Mini proyectos de informatorio grupal
+# Grupo 7 - Informatorio
+Mini proyectos del informatorio
